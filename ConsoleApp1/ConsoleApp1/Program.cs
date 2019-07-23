@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello");
             //this is to create a conflict
             Console.WriteLine("Bye");
-            
+            //Global
         }
     }
 }
