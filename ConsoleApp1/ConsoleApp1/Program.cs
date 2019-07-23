@@ -16,6 +16,8 @@ namespace ConsoleApp1
             //Global
             Console.WriteLine("Branch1 Edit");
             Console.WriteLine("VS Branch Edit");
+            //Branch Changes
+            //Git changes for branch merge
         }
     }
 }
