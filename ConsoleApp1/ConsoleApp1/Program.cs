@@ -14,6 +14,7 @@ namespace ConsoleApp1
             //this is to create a conflict
             Console.WriteLine("Bye");
             //Global
+            Console.WriteLine("Branch1 Edit");
             Console.WriteLine("VS Branch Edit");
         }
     }
